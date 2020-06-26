@@ -1,0 +1,8 @@
+name: 'RUSA Perm Results'
+type: module
+description: 'Store ride results for Permanents'
+core: 8.x
+package: 'RUSA'
+dependencies:
+  - rusa_perm_reg
+  - rusa_api

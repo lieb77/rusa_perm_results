@@ -1,0 +1,31 @@
+add rusa perm results entities:
+  title: 'Create new RUSA Perm Results entities'
+
+administer rusa perm results entities:
+  title: 'Administer RUSA Perm Results entities'
+  description: 'Allow to access the administration form to configure RUSA Perm Results entities.'
+  restrict access: true
+
+delete rusa perm results entities:
+  title: 'Delete RUSA Perm Results entities'
+
+edit rusa perm results entities:
+  title: 'Edit RUSA Perm Results entities'
+
+view published rusa perm results entities:
+  title: 'View published RUSA Perm Results entities'
+
+view unpublished rusa perm results entities:
+  title: 'View unpublished RUSA Perm Results entities'
+
+view all rusa perm results revisions:
+  title: 'View all RUSA Perm Results revisions'
+
+revert all rusa perm results revisions:
+  title: 'Revert all RUSA Perm Results revisions'
+  description: 'Role requires permission <em>view RUSA Perm Results revisions</em> and <em>edit rights</em> for rusa perm results entities in question or <em>administer rusa perm results entities</em>.'
+
+delete all rusa perm results revisions:
+  title: 'Delete all revisions'
+  description: 'Role requires permission to <em>view RUSA Perm Results revisions</em> and <em>delete rights</em> for rusa perm results entities in question or <em>administer rusa perm results entities</em>.'
+
